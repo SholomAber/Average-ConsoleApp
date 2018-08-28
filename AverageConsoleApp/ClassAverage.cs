@@ -23,5 +23,7 @@ class ClassAverage
         }
 
         Console.WriteLine($"The class total is {total}. The class average is {total/studentCount}.");
+
+        Console.ReadKey();
     }
 }
