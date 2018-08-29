@@ -18,7 +18,7 @@ class ClassAverage
             studentCounter++;
         }
 
-        Console.WriteLine($"The class total is {total}. The class average is {total/studentTotal}.");
+        Console.WriteLine($"The class total is {total}. The class average is {(double) total /studentTotal}.");
 
         Console.ReadKey();
     }
