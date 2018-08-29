@@ -1,7 +1,0 @@
-C:\Users\Sholom\source\repos\AverageConsoleApp\AverageConsoleApp\bin\Debug\AverageConsoleApp.exe.config
-C:\Users\Sholom\source\repos\AverageConsoleApp\AverageConsoleApp\bin\Debug\AverageConsoleApp.exe
-C:\Users\Sholom\source\repos\AverageConsoleApp\AverageConsoleApp\bin\Debug\AverageConsoleApp.pdb
-C:\Users\Sholom\source\repos\AverageConsoleApp\AverageConsoleApp\obj\Debug\AverageConsoleApp.csprojAssemblyReference.cache
-C:\Users\Sholom\source\repos\AverageConsoleApp\AverageConsoleApp\obj\Debug\AverageConsoleApp.csproj.CoreCompileInputs.cache
-C:\Users\Sholom\source\repos\AverageConsoleApp\AverageConsoleApp\obj\Debug\AverageConsoleApp.exe
-C:\Users\Sholom\source\repos\AverageConsoleApp\AverageConsoleApp\obj\Debug\AverageConsoleApp.pdb

@@ -17,7 +17,7 @@ class ClassAverage
 
         while (grades <= studentCount)
         {
-            Console.Write("Please enter the grade: ");
+            Console.Write($"Please enter the grade for student {grades}: ");
             total += int.Parse(Console.ReadLine());
             grades++;
         }
