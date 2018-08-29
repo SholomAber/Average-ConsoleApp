@@ -20,6 +20,6 @@ class ClassAverage
 
         Console.WriteLine($"The class total is {total}. The class average is {(double) total /studentTotal}.");
 
-        Console.ReadKey();
+        Console.ReadKey();//testgit
     }
 }
